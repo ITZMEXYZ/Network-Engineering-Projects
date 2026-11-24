@@ -16,46 +16,28 @@ configurations, testing evidence, and lessons learned.
 
 ## Projects
 
-  -------------------------------------------------------------------------
-  \#   Project        Main Skills / Technologies                Status
-  ---- -------------- ----------------------------------------- -----------
-  1    Small Office   Cisco Packet Tracer, IPv4, subnetting,    Planned
-       Network Design DHCP, DNS                                 
+### Beginner
+| # | Project | Technologies |
+|:---:|---|---|
+| 01 | Small Office Network Design | Cisco Packet Tracer, DHCP, DNS |
+| 02 | VLAN and Inter-VLAN Routing | VLAN, Trunking, Router-on-a-Stick |
+| 03 | Static and Dynamic Routing | Static Routing, OSPF, RIP |
 
-  2    VLAN and       VLANs, trunking, Router-on-a-Stick        Planned
-       Inter-VLAN                                               
-       Routing                                                  
+### Intermediate
+| # | Project | Technologies |
+|:---:|---|---|
+| 04 | Enterprise Multi-Branch Network | Cisco Packet Tracer, ACL, DHCP |
+| 05 | Network Traffic Analysis | Wireshark, TCP/IP, DNS |
+| 06 | Network Security and Firewall | ACL, Firewall, DMZ |
+| 07 | Enterprise Wireless Network | WLAN, WPA2/WPA3 |
 
-  3    Static and     Static routes, default routes, OSPF / RIP Planned
-       Dynamic                                                  
-       Routing                                                  
+### Advanced
+| # | Project | Technologies |
+|:---:|---|---|
+| 08 | Network Monitoring System | Zabbix, SNMP, PRTG |
+| 09 | Site-to-Site VPN Implementation | IPsec, VPN |
+| 10 | Python Network Automation | Python, Netmiko, SSH |
 
-  4    Enterprise     Routing, VLANs, DHCP, ACLs                Planned
-       Multi-Branch                                             
-       Network                                                  
-
-  5    Network        Wireshark, TCP, DNS, DHCP                 Planned
-       Traffic                                                  
-       Analysis                                                 
-
-  6    Network        ACLs, firewall rules, DMZ                 Planned
-       Security and                                             
-       Firewall                                                 
-
-  7    Enterprise     WLAN, WPA2/WPA3, wireless security        Planned
-       Wireless                                                 
-       Network                                                  
-
-  8    Network        Zabbix / PRTG, SNMP, monitoring           Planned
-       Monitoring                                               
-
-  9    Site-to-Site   IPsec, VPN, secure connectivity           Planned
-       VPN                                                      
-
-  10   Python Network Python, Netmiko, SSH                      Planned
-       Automation                                               
-  -------------------------------------------------------------------------
-  
 ## Repository Structure
 
 ``` text
