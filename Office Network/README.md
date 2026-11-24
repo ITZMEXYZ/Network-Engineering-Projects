@@ -45,7 +45,7 @@ The network consists of a router, a switch, multiple client computers, and netwo
 
 > Insert your Cisco Packet Tracer network topology screenshot here.
 
-![Network Topology](screenshots/network-topology.png)
+![Network Topology]([screenshots/network-topology.png](https://github.com/ITZMEXYZ/Network-Engineering-Projects/blob/main/Office%20Network/Topology/Office%20network%20Topology.png))
 
 ---
 
