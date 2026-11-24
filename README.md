@@ -19,7 +19,7 @@ configurations, testing evidence, and lessons learned.
 ### Beginner
 | # | Project | Technologies | Status |
 |:---:|---|---|:---:|
-| 01 | Small Office Network Design | Cisco Packet Tracer | Done |
+| 01 | Office Network Design | Cisco Packet Tracer | Done |
 | 02 | VLAN and Inter-VLAN Routing | VLAN, Trunking, Router-on-a-Stick | Planning |
 | 03 | Static and Dynamic Routing | Static Routing, OSPF, RIP | Planning |
 
