@@ -24,19 +24,19 @@ configurations, testing evidence, and lessons learned.
 | 03 | Static and Dynamic Routing | Static Routing, OSPF, RIP | Planning |
 
 ### Intermediate
-| # | Project | Technologies |
-|:---:|---|---|
-| 04 | Enterprise Multi-Branch Network | Cisco Packet Tracer, ACL, DHCP |
-| 05 | Network Traffic Analysis | Wireshark, TCP/IP, DNS |
-| 06 | Network Security and Firewall | ACL, Firewall, DMZ |
-| 07 | Enterprise Wireless Network | WLAN, WPA2/WPA3 |
+| # | Project | Technologies | Status |
+|:---:|---|---|:---:|
+| 04 | Enterprise Multi-Branch Network | Cisco Packet Tracer, ACL, DHCP | Planning |
+| 05 | Network Traffic Analysis | Wireshark, TCP/IP, DNS | Planning |
+| 06 | Network Security and Firewall | ACL, Firewall, DMZ | Planning |
+| 07 | Enterprise Wireless Network | WLAN, WPA2/WPA3 | Planning |
 
 ### Advanced
 | # | Project | Technologies |
-|:---:|---|---|
-| 08 | Network Monitoring System | Zabbix, SNMP, PRTG |
-| 09 | Site-to-Site VPN Implementation | IPsec, VPN |
-| 10 | Python Network Automation | Python, Netmiko, SSH |
+|:---:|---|---|:---:|
+| 08 | Network Monitoring System | Zabbix, SNMP, PRTG | Planning | Planning |
+| 09 | Site-to-Site VPN Implementation | IPsec, VPN | Planning | Planning |
+| 10 | Python Network Automation | Python, Netmiko, SSH | Planning | Planning |
 
 ## Repository Structure
 
