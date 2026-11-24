@@ -32,7 +32,7 @@ configurations, testing evidence, and lessons learned.
 | 07 | Enterprise Wireless Network | WLAN, WPA2/WPA3 | Planning |
 
 ### Advanced
-| # | Project | Technologies |
+| # | Project | Technologies | Status |
 |:---:|---|---|:---:|
 | 08 | Network Monitoring System | Zabbix, SNMP, PRTG | Planning | Planning |
 | 09 | Site-to-Site VPN Implementation | IPsec, VPN | Planning | Planning |
