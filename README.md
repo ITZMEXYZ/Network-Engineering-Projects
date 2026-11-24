@@ -116,10 +116,10 @@ simulations.
 
 ## Contact
 
-**Name:** \[Zy E Banez\]\
-**GitHub:** \[Your GitHub Profile URL\]\
-**Facebook:** \[[Your Facebook Website URL](https://www.facebook.com/zyescote.banez.5)\]\
-**LinkedIn:** \[Your LinkedIn Profile URL\]
+**Name:** \[Zy E. Banez\]\
+**GitHub:** \[[Zy E. Banez](https://github.com/ITZMEXYZ)\]\
+**Facebook:** \[[Zy E. Banez](https://www.facebook.com/zyescote.banez.5)\]\
+**LinkedIn:** \[[Zy E. Banez](https://www.linkedin.com/in/ba%C3%B1ez-zy-e-51032640b/)\]
 
 ------------------------------------------------------------------------
 
