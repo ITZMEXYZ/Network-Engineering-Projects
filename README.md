@@ -55,10 +55,7 @@ configurations, testing evidence, and lessons learned.
   10   Python Network Python, Netmiko, SSH                      Planned
        Automation                                               
   -------------------------------------------------------------------------
-
-> Update each project's status as you work on it. Replace the project
-> links and descriptions with the actual files and results.
-
+  
 ## Repository Structure
 
 ``` text
@@ -119,9 +116,9 @@ simulations.
 
 ## Contact
 
-**Name:** \[Your Name\]\
+**Name:** \[Zy E Banez\]\
 **GitHub:** \[Your GitHub Profile URL\]\
-**Portfolio:** \[Your Portfolio Website URL\]\
+**Facebook:** \[[Your Facebook Website URL](https://www.facebook.com/zyescote.banez.5)\]\
 **LinkedIn:** \[Your LinkedIn Profile URL\]
 
 ------------------------------------------------------------------------
